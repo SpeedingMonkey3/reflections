@@ -1,0 +1,16 @@
+1.How did viewing a diff between two versions of a file help you see the bug that was introduced?
+	"diff" helped me find the bug much faster because it shows me a much cleaner look off the lines added and the lines that have been deleted/ not present in the new file.
+
+2.How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+	I think that having an entire history of a file is like a safety net for programmers and this makes us more efficient because if a mistake occurs we can go back to the previous edit of the file and fix the new problem.
+
+3.What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does? 
+	I would agree with what was said in the video. User error becomes a big part of your work when you manually have to commit. Forgetting to commit or making a commit at the inappropriate time might cause difficulty, but automatic saving usually means that you can't see your previous work offline and some saved versions might be insignificant.
+4.Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	Git does this because as a programmer we usually work on projects involving more than one file and chances are that they are related. While average users tend to only work on single unrelated files.
+5.How can you use the commands git log and git diff to view the history of files?
+	Both these commands can be used in a very efficient way to find mistakes and or revert to an earlier version of the project or file.
+6.How might using version control make you more confident to make changes that could break something?
+	As I had said in the second reflection, it is like a safety net for programmers this gives us more confidence wen working on lines of code because we know that if a bug shows up we can go back and fix it.
+7.Now that you have your workspace set up, what do you want to try using Git for?
+	I would like to use git as a new way for  me to manage my files but mainly use Git with Github to work/ help with projects with my friends.
